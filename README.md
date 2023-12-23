@@ -22,7 +22,7 @@
 - [TypeScript](https://www.typescriptlang.org/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Angular](https://angular.io/)
-- LinkedIn: [Nathalia Corrêa](https://www.linkedin.com/in/nathalia-corr%C3%AAa-bb6a9414b/)
+- [Nathalia Corrêa](https://www.linkedin.com/in/nathalia-corr%C3%AAa-bb6a9414b/)
 
 ## Versões Utilizadas
 1. **Angular** ng v
