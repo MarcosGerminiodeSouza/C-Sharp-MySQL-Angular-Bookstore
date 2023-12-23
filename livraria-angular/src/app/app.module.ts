@@ -15,6 +15,10 @@ import { LivrosComponent } from './components/livraria-app/livros/livros.compone
 import { LivroComponent } from './components/livraria-app/livros/livro/livro.component';
 
 import { HttpClientModule } from '@angular/common/http';
+import { BookstoreAppComponent } from './components/bookstore-app/bookstore-app.component';
+import { FilterComponent } from './components/bookstore-app/filter/filter.component';
+import { BooksListComponent } from './components/bookstore-app/books-list/books-list.component';
+import { BookItemComponent } from './components/bookstore-app/books-list/book-item/book-item.component';
 
 
 @NgModule({
@@ -26,7 +30,11 @@ import { HttpClientModule } from '@angular/common/http';
     LivrariaAppComponent,
     FiltroComponent,
     LivrosComponent,
-    LivroComponent
+    LivroComponent,
+    BookstoreAppComponent,
+    FilterComponent,
+    BooksListComponent,
+    BookItemComponent
   ],
   imports: [
     HttpClientModule,
