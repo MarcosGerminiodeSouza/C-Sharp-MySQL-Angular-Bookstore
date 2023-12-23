@@ -1,0 +1,7 @@
+.card {
+  border: solid 1px red;
+}
+
+.card-body {
+  border: solid 1px green;
+}
