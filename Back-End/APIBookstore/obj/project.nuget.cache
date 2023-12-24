@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jhKLVyiye73wOMl8TJKFotaN67HPEefaW6obPSoDp5O9Il7wmgrvndKmWUUwH1ghnTIhhbw6XK5u5xBU2F7WfA==",
+  "dgSpecHash": "2MmzzvLSXOpjITosBCWhuvB5tERQ/ASSDlnR9kKpi5JSPVYqx+SWxchoP/R4bE1YkGR1BCcWZSuSt48Ejq6/eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Home\\Desktop\\scripts\\C-Sharp-MySQL-Angular-Bookstore\\APIBookstore\\APIBookstore.csproj",
+  "projectFilePath": "C:\\Users\\Home\\Workspace\\Github\\Dotnet-EF_com_MySQL_e_Angular-Bookstore\\Back-End\\APIBookstore\\APIBookstore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Home\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Home\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

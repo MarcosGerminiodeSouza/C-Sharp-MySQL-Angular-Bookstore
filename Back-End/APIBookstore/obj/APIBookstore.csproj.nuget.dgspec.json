@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Home\\Desktop\\scripts\\C-Sharp-MySQL-Angular-Bookstore\\APIBookstore\\APIBookstore.csproj": {}
+    "C:\\Users\\Home\\Workspace\\Github\\Dotnet-EF_com_MySQL_e_Angular-Bookstore\\Back-End\\APIBookstore\\APIBookstore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Home\\Desktop\\scripts\\C-Sharp-MySQL-Angular-Bookstore\\APIBookstore\\APIBookstore.csproj": {
+    "C:\\Users\\Home\\Workspace\\Github\\Dotnet-EF_com_MySQL_e_Angular-Bookstore\\Back-End\\APIBookstore\\APIBookstore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Home\\Desktop\\scripts\\C-Sharp-MySQL-Angular-Bookstore\\APIBookstore\\APIBookstore.csproj",
+        "projectUniqueName": "C:\\Users\\Home\\Workspace\\Github\\Dotnet-EF_com_MySQL_e_Angular-Bookstore\\Back-End\\APIBookstore\\APIBookstore.csproj",
         "projectName": "APIBookstore",
-        "projectPath": "C:\\Users\\Home\\Desktop\\scripts\\C-Sharp-MySQL-Angular-Bookstore\\APIBookstore\\APIBookstore.csproj",
+        "projectPath": "C:\\Users\\Home\\Workspace\\Github\\Dotnet-EF_com_MySQL_e_Angular-Bookstore\\Back-End\\APIBookstore\\APIBookstore.csproj",
         "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Home\\Desktop\\scripts\\C-Sharp-MySQL-Angular-Bookstore\\APIBookstore\\obj\\",
+        "outputPath": "C:\\Users\\Home\\Workspace\\Github\\Dotnet-EF_com_MySQL_e_Angular-Bookstore\\Back-End\\APIBookstore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
