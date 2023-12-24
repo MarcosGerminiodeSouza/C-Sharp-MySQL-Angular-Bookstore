@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { Livro } from '../models/livro.model';
-import { LivrariaService } from '../services/livraria.api.service';
+import { Livro } from '../../../bookstore-app/books-list/models/book.model';
+import { LivrariaService } from '../services/api-bookstore.service';
 import { environment } from 'src/environments/environment';
 
 @Component({
@@ -15,7 +15,7 @@ export class LivroComponent implements OnInit {
   constructor(private livrariaService: LivrariaService) {
 
     this.obterLivrosCadastrados();
-    
+
     console.log('TO AQUI', environment.apiUrl);
   }
 
