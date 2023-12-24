@@ -1,3 +1,50 @@
-img {
-  height: 29rem;
+.card {
+  height: 35rem;
+  width: 22rem;
+  justify-content: center;
+  border-radius: 10px;
+  border: solid 1px #ffffff;
+}
+
+.card img {
+  border-radius: 10px 10px 0px 0px;
+}
+
+.card-body {
+  border-radius: 0px 0px 10px 10px;
+}
+
+.title {
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.span {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem 0px 1rem 0px;
+}
+
+.span .autor{
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+}
+
+.span .editora {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 11px;
+}
+
+.d-flex .card-text{
+  margin-top: 2px;
+  margin-left: 1.5rem;
+  font-size: 18px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn-group .btn{
+  height: 2rem;
+  width: 5rem;
 }
