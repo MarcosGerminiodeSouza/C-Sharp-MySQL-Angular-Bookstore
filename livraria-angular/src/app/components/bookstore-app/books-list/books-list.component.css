@@ -1,10 +1,4 @@
-.row {
-  padding-left: .5rem;
-  background-color: #e7e7e7;
-  border-radius: 10px;
-  border: 1px solid #969696;
-}
 
 .col-md-4 {
-  margin: 1rem 0px 1.3rem 0px;
+  margin-bottom: 0.5rem;
 }

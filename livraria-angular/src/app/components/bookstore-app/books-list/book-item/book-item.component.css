@@ -1,17 +1,16 @@
 .card {
-  height: 35rem;
-  width: 22rem;
-  justify-content: center;
   border-radius: 10px;
-  border: solid 1px #ffffff;
+  border: solid 1px #969696;
 }
 
 .card img {
+  height: 23rem;
   border-radius: 10px 10px 0px 0px;
 }
 
 .card-body {
   border-radius: 0px 0px 10px 10px;
+  border-top: #969696 solid 1px;
 }
 
 .title {
@@ -38,7 +37,7 @@
 }
 
 .d-flex .card-text{
-  margin-top: 2px;
+  margin-top: 3px;
   margin-left: 1.5rem;
   font-size: 18px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
