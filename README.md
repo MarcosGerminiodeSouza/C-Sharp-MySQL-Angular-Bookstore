@@ -12,8 +12,10 @@
 
 ## Desafio de Projeto Digital Innovation One
 
-- **Plataforma de Estudos**: [dio.me](https://dio.me/)
+- **Plataforma de Ensino Tech**: [dio.me](https://dio.me/)
 - **Desafio de Projeto**: [Criando seu E-commerce de Livros em C# e Angular](https://web.dio.me/lab/criando-seu-e-commerce-de-livros-em-c-e-angular/learning/ef7c8714-449c-4038-9d3b-84ae1e0c35e2)
+- **Descrição**: Neste projeto você irá desenvolver o seu próprio e-commerce, utilizando C# e Angular! Aprimore ainda mais o seu conhecimento desenvolvendo tanto o Back-End com o Front-End da aplicação e criando a sua API de produtos.
+- **Especialista**: **Nathalia Corrêa** Senior Software Development Engineer, BTG Pactual
 - **Link da base desse projeto (Forked from)**: **naatscs**/[DIO-LiveCoding-Api-GETProducts](https://github.com/naatscs/DIO-LiveCoding-Api-GETProducts)
 
 ## Links Úteis
@@ -22,7 +24,7 @@
 - [TypeScript](https://www.typescriptlang.org/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Angular](https://angular.io/)
-- [Nathalia Corrêa](https://www.linkedin.com/in/nathalia-corr%C3%AAa-bb6a9414b/)
+- [LinkedIn](https://www.linkedin.com/in/nathalia-corr%C3%AAa-bb6a9414b/) de **Nathalia Corrêa**
 
 ## Versões Utilizadas
 1. **Angular** ng v
